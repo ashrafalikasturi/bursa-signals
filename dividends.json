@@ -1,0 +1,24 @@
+{
+ "as_of": "2026-11-20",
+ "codes": {
+  "0246": {
+   "announce": "2026-11-20",
+   "check": false,
+   "ex": "2026-12-07",
+   "hist": [],
+   "pay": "2026-12-16",
+   "record": "2026-12-08",
+   "sen": 1.0,
+   "source": "bursa"
+  }
+ },
+ "kind": "dividends",
+ "n": 1,
+ "not_available": [],
+ "run": {
+  "announcements": 1
+ },
+ "universe": 886,
+ "updated_utc": "2026-11-20T13:45:53Z",
+ "v": 1
+}
