@@ -1,0 +1,2329 @@
+{
+ "as_of": "2026-11-21",
+ "window_days": 30,
+ "signals": [
+  {
+   "company": "RIVERTREE STF SYNERGIES BERHAD",
+   "code": "9776",
+   "buys": [
+    {
+     "date": "2026-11-18",
+     "director": "DATO' LEONG SAI MUN",
+     "qty": 620000,
+     "rm": 233740.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725807"
+    },
+    {
+     "date": "2026-11-17",
+     "director": "DATO' LEONG SAI MUN",
+     "qty": 1140000,
+     "rm": 433200.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725216"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "DATO' LEONG SAI MUN",
+     "qty": 1030000,
+     "rm": 381100.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724361"
+    },
+    {
+     "date": "2026-11-12",
+     "director": "DATO' LEONG SAI MUN",
+     "qty": 1100000,
+     "rm": 377300.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724059"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 1425340,
+   "last_buy": "2026-11-18"
+  },
+  {
+   "company": "LIM SEONG HAI CAPITAL BERHAD",
+   "code": "0351",
+   "buys": [
+    {
+     "date": "2026-11-18",
+     "director": "MR LIM DING SHYONG",
+     "qty": 60000,
+     "rm": 76920.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725800"
+    },
+    {
+     "date": "2026-11-18",
+     "director": "DATUK LIM KENG GUAN",
+     "qty": 32800,
+     "rm": 41656.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725798"
+    },
+    {
+     "date": "2026-11-17",
+     "director": "DATUK LIM KENG GUAN",
+     "qty": 102000,
+     "rm": 128622.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725228"
+    },
+    {
+     "date": "2026-11-16",
+     "director": "DATUK LIM KENG GUAN",
+     "qty": 75000,
+     "rm": 99750.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724775"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "MR LIM DING SHYONG",
+     "qty": 50000,
+     "rm": 65150.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724339"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "DATUK LIM KENG GUAN",
+     "qty": 60000,
+     "rm": 79800.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724338"
+    },
+    {
+     "date": "2026-11-12",
+     "director": "MR LIM DING SHYONG",
+     "qty": 30000,
+     "rm": 39000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724020"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "MR LIM DING SHYONG",
+     "qty": 40000,
+     "rm": 53720.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723664"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "DATUK LIM KENG GUAN",
+     "qty": 41500,
+     "rm": 56315.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723663"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "DATUK LIM KENG GUAN",
+     "qty": 75000,
+     "rm": 101250.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723324"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "DATUK LIM KENG GUAN",
+     "qty": 72000,
+     "rm": 98640.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722921"
+    },
+    {
+     "date": "2026-11-05",
+     "director": "MR LIM DING SHYONG",
+     "qty": 80000,
+     "rm": 110400.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722592"
+    },
+    {
+     "date": "2026-11-05",
+     "director": "DATUK LIM KENG GUAN",
+     "qty": 70000,
+     "rm": 97300.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722591"
+    },
+    {
+     "date": "2026-10-28",
+     "director": "DATUK LIM KENG GUAN",
+     "qty": 70000,
+     "rm": 99400.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3719770"
+    },
+    {
+     "date": "2026-10-23",
+     "director": "MR LIM DING SHYONG",
+     "qty": 198000,
+     "rm": 283140.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718266"
+    },
+    {
+     "date": "2026-10-23",
+     "director": "TAN SRI DATUK SERI LIM KENG CHENG",
+     "qty": 16100,
+     "rm": 23039.1,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718265"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "MR LIM DING SHYONG",
+     "qty": 82000,
+     "rm": 116932.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717810"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "DATUK LIM KENG GUAN",
+     "qty": 120800,
+     "rm": 171536.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717808"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "TAN SRI DATUK SERI LIM KENG CHENG",
+     "qty": 14400,
+     "rm": 20534.4,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717807"
+    }
+   ],
+   "directors": 3,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 1763105,
+   "last_buy": "2026-11-18"
+  },
+  {
+   "company": "MR D.I.Y. GROUP (M) BERHAD",
+   "code": "5296",
+   "buys": [
+    {
+     "date": "2026-11-18",
+     "director": "MR ONG CHU JIN ADRIAN",
+     "qty": 1000000,
+     "rm": 1032500.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3725694"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 1032500,
+   "last_buy": "2026-11-18"
+  },
+  {
+   "company": "LEONG HUP INTERNATIONAL BERHAD",
+   "code": "6633",
+   "buys": [
+    {
+     "date": "2026-11-18",
+     "director": "MR LAU JOO HAN",
+     "qty": 400000,
+     "rm": 288000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725671"
+    },
+    {
+     "date": "2026-11-18",
+     "director": "DATUK LAU JOO HONG",
+     "qty": 400000,
+     "rm": 288000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725663"
+    },
+    {
+     "date": "2026-11-17",
+     "director": "MR LAU JOO HAN",
+     "qty": 350000,
+     "rm": 252000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725082"
+    },
+    {
+     "date": "2026-11-17",
+     "director": "DATUK LAU JOO HONG",
+     "qty": 350000,
+     "rm": 252000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725075"
+    },
+    {
+     "date": "2026-11-16",
+     "director": "MR LAU JOO HAN",
+     "qty": 150000,
+     "rm": 109500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724566"
+    },
+    {
+     "date": "2026-11-16",
+     "director": "DATUK LAU JOO HONG",
+     "qty": 150000,
+     "rm": 109500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724557"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "MR LAU JOO HAN",
+     "qty": 200000,
+     "rm": 146000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724256"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "DATUK LAU JOO HONG",
+     "qty": 200000,
+     "rm": 146000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724254"
+    },
+    {
+     "date": "2026-11-12",
+     "director": "MR LAU JOO HAN",
+     "qty": 93700,
+     "rm": 67932.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724028"
+    },
+    {
+     "date": "2026-11-12",
+     "director": "DATUK LAU JOO HONG",
+     "qty": 93700,
+     "rm": 67932.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724026"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "MR LAU JOO HAN",
+     "qty": 200000,
+     "rm": 143000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723639"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "DATUK LAU JOO HONG",
+     "qty": 200000,
+     "rm": 143000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723637"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "MR LAU JOO HAN",
+     "qty": 42900,
+     "rm": 31102.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722880"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "DATUK LAU JOO HONG",
+     "qty": 42900,
+     "rm": 31102.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722878"
+    },
+    {
+     "date": "2026-11-05",
+     "director": "MR LAU JOO HAN",
+     "qty": 200000,
+     "rm": 145000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722529"
+    },
+    {
+     "date": "2026-11-05",
+     "director": "DATUK LAU JOO HONG",
+     "qty": 200000,
+     "rm": 145000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722524"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "MR LAU JOO HAN",
+     "qty": 300000,
+     "rm": 216000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722152"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "DATUK LAU JOO HONG",
+     "qty": 300000,
+     "rm": 216000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722148"
+    },
+    {
+     "date": "2026-11-03",
+     "director": "MR LAU JOO HAN",
+     "qty": 157900,
+     "rm": 112109.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3721852"
+    },
+    {
+     "date": "2026-11-03",
+     "director": "DATUK LAU JOO HONG",
+     "qty": 157900,
+     "rm": 112109.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3721847"
+    }
+   ],
+   "directors": 2,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 3021288,
+   "last_buy": "2026-11-18"
+  },
+  {
+   "company": "SUPERCOMNET TECHNOLOGIES BERHAD",
+   "code": "0001",
+   "buys": [
+    {
+     "date": "2026-11-18",
+     "director": "MR WU, CHUNG-JUNG",
+     "qty": 100000,
+     "rm": 43800.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725620"
+    },
+    {
+     "date": "2026-11-18",
+     "director": "MR SHIUE, JONG-ZONE A.K.A. JAMES SHIUE",
+     "qty": 100000,
+     "rm": 43800.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725618"
+    },
+    {
+     "date": "2026-11-18",
+     "director": "MR HSUEH, CHIH-YU",
+     "qty": 100000,
+     "rm": 43800.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725617"
+    },
+    {
+     "date": "2026-11-18",
+     "director": "MADAM WU, HUEI-CHUNG",
+     "qty": 100000,
+     "rm": 43800.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725612"
+    },
+    {
+     "date": "2026-11-17",
+     "director": "MADAM WU, HUEI-CHUNG",
+     "qty": 200000,
+     "rm": 92000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725048"
+    },
+    {
+     "date": "2026-11-17",
+     "director": "MR SHIUE, JONG-ZONE A.K.A. JAMES SHIUE",
+     "qty": 200000,
+     "rm": 92000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725045"
+    },
+    {
+     "date": "2026-11-17",
+     "director": "MR WU, CHUNG-JUNG",
+     "qty": 200000,
+     "rm": 92000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725041"
+    },
+    {
+     "date": "2026-11-17",
+     "director": "MR HSUEH, CHIH-YU",
+     "qty": 200000,
+     "rm": 92000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725039"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "MR SHIUE, JONG-ZONE A.K.A. JAMES SHIUE",
+     "qty": 51600,
+     "rm": 24252.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717616"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "MR WU, CHUNG-JUNG",
+     "qty": 51600,
+     "rm": 24252.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717613"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "MR HSUEH, CHIH-YU",
+     "qty": 51600,
+     "rm": 24252.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717612"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "MADAM WU, HUEI-CHUNG",
+     "qty": 51600,
+     "rm": 24252.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717608"
+    }
+   ],
+   "directors": 4,
+   "big_buy": false,
+   "value_unknown": 0,
+   "total_rm": 640208,
+   "last_buy": "2026-11-18"
+  },
+  {
+   "company": "MAGNI-TECH INDUSTRIES BERHAD",
+   "code": "7087",
+   "buys": [
+    {
+     "date": "2026-11-18",
+     "director": "MR TAN POAY SENG",
+     "qty": 74700,
+     "rm": 106074.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725577"
+    },
+    {
+     "date": "2026-11-16",
+     "director": "MR TAN POAY SENG",
+     "qty": 1500,
+     "rm": 2130.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724468"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "MR TAN POAY SENG",
+     "qty": 43100,
+     "rm": 60771.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723062"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "MR TAN POAY SENG",
+     "qty": 116900,
+     "rm": 165998.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722675"
+    },
+    {
+     "date": "2026-11-05",
+     "director": "MR TAN POAY SENG",
+     "qty": 200000,
+     "rm": 282200.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722316"
+    },
+    {
+     "date": "2026-11-02",
+     "director": "MR TAN POAY SENG",
+     "qty": 32600,
+     "rm": 46292.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3721208"
+    },
+    {
+     "date": "2026-10-30",
+     "director": "MR TAN POAY SENG",
+     "qty": 23700,
+     "rm": 34056.9,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3720643"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "MR TAN POAY SENG",
+     "qty": 13700,
+     "rm": 19591.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718397"
+    },
+    {
+     "date": "2026-10-23",
+     "director": "TAN SRI DATO' SERI TAN KOK PING",
+     "qty": 73300,
+     "rm": 107018.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717928"
+    }
+   ],
+   "directors": 2,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 824131,
+   "last_buy": "2026-11-18"
+  },
+  {
+   "company": "CENTRAL GLOBAL BERHAD",
+   "code": "8052",
+   "buys": [
+    {
+     "date": "2026-11-18",
+     "director": "MR LEE CHEE VUI",
+     "qty": 2353000,
+     "rm": 2033227.3,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725574"
+    },
+    {
+     "date": "2026-11-18",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 1129200,
+     "rm": 976758.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725570"
+    },
+    {
+     "date": "2026-11-16",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 14000,
+     "rm": 12110.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724595"
+    },
+    {
+     "date": "2026-11-16",
+     "director": "MR LEE CHEE VUI",
+     "qty": 4743000,
+     "rm": 4102695.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724592"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "MR LEE CHEE VUI",
+     "qty": 1733000,
+     "rm": 1499045.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724233"
+    },
+    {
+     "date": "2026-11-12",
+     "director": "MR LEE CHEE VUI",
+     "qty": 5450000,
+     "rm": 4714250.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723989"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "MR LEE CHEE VUI",
+     "qty": 4120000,
+     "rm": 3563800.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723558"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "MR LEE CHEE VUI",
+     "qty": 8572000,
+     "rm": 7414780.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723257"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 3500,
+     "rm": 3027.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723253"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "MR LEE CHEE VUI",
+     "qty": 2000000,
+     "rm": 1730000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722793"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 4100,
+     "rm": 3546.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722794"
+    },
+    {
+     "date": "2026-11-05",
+     "director": "MR LEE CHEE VUI",
+     "qty": 1156000,
+     "rm": 999940.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722466"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 8500,
+     "rm": 7352.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722194"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "MR LEE CHEE VUI",
+     "qty": 5000,
+     "rm": 4325.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722189"
+    },
+    {
+     "date": "2026-11-03",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 10600,
+     "rm": 9169.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3721803"
+    },
+    {
+     "date": "2026-10-29",
+     "director": "MR LEE CHEE VUI",
+     "qty": 10000,
+     "rm": 8650.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3720167"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "MR LEE CHEE VUI",
+     "qty": 44000,
+     "rm": 38060.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718622"
+    },
+    {
+     "date": "2026-10-23",
+     "director": "MR LEE CHEE VUI",
+     "qty": 700000,
+     "rm": 605500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718082"
+    }
+   ],
+   "directors": 2,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 27726236,
+   "last_buy": "2026-11-18"
+  },
+  {
+   "company": "TAMBUN INDAH LAND BERHAD",
+   "code": "5191",
+   "buys": [
+    {
+     "date": "2026-11-18",
+     "director": "MR TEH KIAK SENG",
+     "qty": 41300,
+     "rm": 27777.55,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725455"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "MR TEH KIAK SENG",
+     "qty": 12500,
+     "rm": 8362.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724121"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "MR TEH KIAK SENG",
+     "qty": 383600,
+     "rm": 254925.22,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722673"
+    },
+    {
+     "date": "2026-10-30",
+     "director": "MR TEH KIAK SENG",
+     "qty": 52000,
+     "rm": 35839.96,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3720638"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "MR TEH KIAK SENG",
+     "qty": 12000,
+     "rm": 8150.04,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718400"
+    },
+    {
+     "date": "2026-10-23",
+     "director": "MR TEH KIAK SENG",
+     "qty": 8500000,
+     "rm": 5950000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717919"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 6285055,
+   "last_buy": "2026-11-18"
+  },
+  {
+   "company": "UNISEM (M) BERHAD",
+   "code": "5005",
+   "buys": [
+    {
+     "date": "2026-11-18",
+     "director": "MR JOHN CHIA SIN TET",
+     "qty": 50000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3725422"
+    },
+    {
+     "date": "2026-11-17",
+     "director": "MR JOHN CHIA SIN TET",
+     "qty": 33000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3724876"
+    },
+    {
+     "date": "2026-11-17",
+     "director": "MR FRANCIS CHIA MONG TET",
+     "qty": 10000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3724875"
+    },
+    {
+     "date": "2026-11-16",
+     "director": "MR JOHN CHIA SIN TET",
+     "qty": 30000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3724432"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "MR FRANCIS CHIA MONG TET",
+     "qty": 40000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3724308"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "MADAM TEH MUY CH'NG",
+     "qty": 16000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3723410"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "MR FRANCIS CHIA MONG TET",
+     "qty": 40000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3723029"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "MR FRANCIS CHIA MONG TET",
+     "qty": 60000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3722646"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "MR FRANCIS CHIA MONG TET",
+     "qty": 60000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3721932"
+    }
+   ],
+   "directors": 3,
+   "big_buy": false,
+   "value_unknown": 9,
+   "total_rm": 0,
+   "last_buy": "2026-11-18"
+  },
+  {
+   "company": "EASTERN & ORIENTAL BERHAD",
+   "code": "3417",
+   "buys": [
+    {
+     "date": "2026-11-18",
+     "director": "DATO\u2019 SERI TEE ENG HO",
+     "qty": 1400000,
+     "rm": 992600.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725417"
+    },
+    {
+     "date": "2026-11-18",
+     "director": "DATO' TEE ENG SENG",
+     "qty": 1400000,
+     "rm": 992600.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725415"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "DATO' TEE ENG SENG",
+     "qty": 204200,
+     "rm": 150699.6,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723406"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "DATO\u2019 SERI TEE ENG HO",
+     "qty": 204200,
+     "rm": 150699.6,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723405"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "DATO\u2019 SERI TEE ENG HO",
+     "qty": 827500,
+     "rm": 609040.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723027"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "DATO' TEE ENG SENG",
+     "qty": 827500,
+     "rm": 609040.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723023"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "DATO' TEE ENG SENG",
+     "qty": 756800,
+     "rm": 569113.6,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718370"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "DATO\u2019 SERI TEE ENG HO",
+     "qty": 756800,
+     "rm": 569113.6,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718369"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "DATO\u2019 SERI TEE ENG HO",
+     "qty": 1500000,
+     "rm": 1128000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717398"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "DATO' TEE ENG SENG",
+     "qty": 1500000,
+     "rm": 1128000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717396"
+    }
+   ],
+   "directors": 2,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 6898906,
+   "last_buy": "2026-11-18"
+  },
+  {
+   "company": "YBS INTERNATIONAL BERHAD",
+   "code": "0025",
+   "buys": [
+    {
+     "date": "2026-11-17",
+     "director": "YONG CHAN CHEAH",
+     "qty": 50300,
+     "rm": 10512.7,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725252"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "MR YONG CHAN CHEAH",
+     "qty": 48100,
+     "rm": 10533.9,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724385"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "MR YONG CHAN CHEAH",
+     "qty": 100000,
+     "rm": 22500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723704"
+    }
+   ],
+   "directors": 2,
+   "big_buy": false,
+   "value_unknown": 0,
+   "total_rm": 43547,
+   "last_buy": "2026-11-17"
+  },
+  {
+   "company": "SNS NETWORK TECHNOLOGY BERHAD",
+   "code": "0259",
+   "buys": [
+    {
+     "date": "2026-11-17",
+     "director": "MR PAH WAI ONN",
+     "qty": 798000,
+     "rm": 316566.6,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725213"
+    },
+    {
+     "date": "2026-11-16",
+     "director": "MR PAH WAI ONN",
+     "qty": 202400,
+     "rm": 80960.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724797"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 397527,
+   "last_buy": "2026-11-17"
+  },
+  {
+   "company": "INSIGHTS ANALYTICS BERHAD",
+   "code": "0376",
+   "buys": [
+    {
+     "date": "2026-11-17",
+     "director": "DR WEE KHIAM HUI",
+     "qty": 300000,
+     "rm": 265500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725118"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "MR WEE KHIAM HUI",
+     "qty": 300000,
+     "rm": 273300.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722870"
+    }
+   ],
+   "directors": 2,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 538800,
+   "last_buy": "2026-11-17"
+  },
+  {
+   "company": "MEGA FIRST CORPORATION BERHAD",
+   "code": "3069",
+   "buys": [
+    {
+     "date": "2026-11-17",
+     "director": "GOH NAN KIOH",
+     "qty": 80000,
+     "rm": 215040.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3725106"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "GOH NAN KIOH",
+     "qty": 25900,
+     "rm": 70344.4,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724293"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "GOH NAN KIOH",
+     "qty": 47200,
+     "rm": 127912.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723593"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "GOH NAN KIOH",
+     "qty": 40000,
+     "rm": 111000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722826"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "GOH NAN KIOH",
+     "qty": 29000,
+     "rm": 77314.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722106"
+    },
+    {
+     "date": "2026-11-02",
+     "director": "GOH NAN KIOH",
+     "qty": 90000,
+     "rm": 240030.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3721384"
+    },
+    {
+     "date": "2026-10-29",
+     "director": "GOH NAN KIOH",
+     "qty": 95300,
+     "rm": 256357.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3720278"
+    },
+    {
+     "date": "2026-10-27",
+     "director": "GOH NAN KIOH",
+     "qty": 70000,
+     "rm": 183330.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3719144"
+    },
+    {
+     "date": "2026-10-23",
+     "director": "GOH NAN KIOH",
+     "qty": 100000,
+     "rm": 265400.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718090"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 1546727,
+   "last_buy": "2026-11-17"
+  },
+  {
+   "company": "IOI PROPERTIES GROUP BERHAD",
+   "code": "5249",
+   "buys": [
+    {
+     "date": "2026-11-17",
+     "director": "DATO' LEE YEOW SENG",
+     "qty": 4000000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3724880"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "DATO' LEE YEOW SENG",
+     "qty": 3000000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3723043"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "DATO' LEE YEOW SENG",
+     "qty": 3000000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3722924"
+    },
+    {
+     "date": "2026-11-03",
+     "director": "DATO' LEE YEOW CHOR",
+     "qty": 30000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3721794"
+    },
+    {
+     "date": "2026-10-27",
+     "director": "DATO' LEE YEOW SENG",
+     "qty": 62000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3719090"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "DATO' LEE YEOW SENG",
+     "qty": 2000000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3718353"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "MR CHAN CHA LIN",
+     "qty": 456900,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3718351"
+    }
+   ],
+   "directors": 3,
+   "big_buy": false,
+   "value_unknown": 7,
+   "total_rm": 0,
+   "last_buy": "2026-11-17"
+  },
+  {
+   "company": "MAA GROUP BERHAD",
+   "code": "1198",
+   "buys": [
+    {
+     "date": "2026-11-16",
+     "director": "DATO' TUNKU YAACOB KHYRA",
+     "qty": 8700,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3724800"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "DATO' TUNKU DATO' YAACOB KHYRA",
+     "qty": 40000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3723259"
+    }
+   ],
+   "directors": 2,
+   "big_buy": false,
+   "value_unknown": 2,
+   "total_rm": 0,
+   "last_buy": "2026-11-16"
+  },
+  {
+   "company": "EPB GROUP BERHAD",
+   "code": "0317",
+   "buys": [
+    {
+     "date": "2026-11-16",
+     "director": "MADAM OOI KIM KEW",
+     "qty": 8500,
+     "rm": 1785.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724795"
+    },
+    {
+     "date": "2026-11-16",
+     "director": "MR YEOH CHEE MIN",
+     "qty": 8500,
+     "rm": 1785.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724793"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "MR YEOH CHEE MIN",
+     "qty": 44000,
+     "rm": 9460.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723679"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "MADAM OOI KIM KEW",
+     "qty": 44000,
+     "rm": 9460.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723676"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "MR YEOH CHEE MIN",
+     "qty": 37300,
+     "rm": 8019.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723357"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "MADAM OOI KIM KEW",
+     "qty": 37300,
+     "rm": 8019.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723354"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "MADAM OOI KIM KEW",
+     "qty": 63400,
+     "rm": 14518.6,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722178"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "MR YEOH CHEE MIN",
+     "qty": 63400,
+     "rm": 14518.6,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722175"
+    },
+    {
+     "date": "2026-10-27",
+     "director": "MR YEOH CHEE MIN",
+     "qty": 50000,
+     "rm": 11500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3719226"
+    },
+    {
+     "date": "2026-10-27",
+     "director": "MADAM OOI KIM KEW",
+     "qty": 50000,
+     "rm": 11500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3719225"
+    }
+   ],
+   "directors": 2,
+   "big_buy": false,
+   "value_unknown": 0,
+   "total_rm": 90566,
+   "last_buy": "2026-11-16"
+  },
+  {
+   "company": "CITAGLOBAL BERHAD",
+   "code": "7245",
+   "buys": [
+    {
+     "date": "2026-11-16",
+     "director": "DATO' AIMI AIZAL BIN NASHARUDDIN",
+     "qty": 400000,
+     "rm": 504000.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3724778"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 504000,
+   "last_buy": "2026-11-16"
+  },
+  {
+   "company": "BERMAZ AUTO BERHAD",
+   "code": "5248",
+   "buys": [
+    {
+     "date": "2026-11-16",
+     "director": "TAN SRI DATO' SRI YEOH CHOON SAN",
+     "qty": 100000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3724715"
+    },
+    {
+     "date": "2026-11-16",
+     "director": "DATO' SRI LEE KOK CHUAN",
+     "qty": 100000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3724714"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "TAN SRI DATO' SRI YEOH CHOON SAN",
+     "qty": 50000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3723205"
+    },
+    {
+     "date": "2026-11-10",
+     "director": "DATO' SRI LEE KOK CHUAN",
+     "qty": 50000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3723204"
+    },
+    {
+     "date": "2026-11-03",
+     "director": "DATO' SRI LEE KOK CHUAN",
+     "qty": 50000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3721779"
+    },
+    {
+     "date": "2026-11-03",
+     "director": "TAN SRI DATO' SRI YEOH CHOON SAN",
+     "qty": 50000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3721780"
+    },
+    {
+     "date": "2026-10-30",
+     "director": "TAN SRI DATO' SRI YEOH CHOON SAN",
+     "qty": 100000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3720854"
+    },
+    {
+     "date": "2026-10-30",
+     "director": "DATO' SRI LEE KOK CHUAN",
+     "qty": 100000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3720855"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "DATO' SRI LEE KOK CHUAN",
+     "qty": 22300,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3718597"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "TAN SRI DATO' SRI YEOH CHOON SAN",
+     "qty": 22300,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3718598"
+    }
+   ],
+   "directors": 2,
+   "big_buy": false,
+   "value_unknown": 10,
+   "total_rm": 0,
+   "last_buy": "2026-11-16"
+  },
+  {
+   "company": "ECOFIRST CONSOLIDATED BHD",
+   "code": "3557",
+   "buys": [
+    {
+     "date": "2026-11-16",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 100000,
+     "rm": 33000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724660"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 100000,
+     "rm": 33000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724279"
+    },
+    {
+     "date": "2026-11-12",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 320000,
+     "rm": 105600.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3723951"
+    },
+    {
+     "date": "2026-11-06",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 50000,
+     "rm": 16250.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722739"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 850000,
+     "rm": 276250.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722120"
+    },
+    {
+     "date": "2026-10-29",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 320000,
+     "rm": 102400.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3720071"
+    },
+    {
+     "date": "2026-10-23",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 234800,
+     "rm": 72553.2,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718005"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "MR CHEW HIAN TAT",
+     "qty": 300000,
+     "rm": 94500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717569"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 733553,
+   "last_buy": "2026-11-16"
+  },
+  {
+   "company": "S P SETIA BERHAD",
+   "code": "8664",
+   "buys": [
+    {
+     "date": "2026-11-16",
+     "director": "DATUK ZAINI BIN YUSOFF",
+     "qty": 200000,
+     "rm": 112000.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724599"
+    },
+    {
+     "date": "2026-11-13",
+     "director": "DATUK ZAINI BIN YUSOFF",
+     "qty": 300000,
+     "rm": 169500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3724150"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 281500,
+   "last_buy": "2026-11-16"
+  },
+  {
+   "company": "VANZO HOLDINGS BERHAD",
+   "code": "0333",
+   "buys": [
+    {
+     "date": "2026-11-12",
+     "director": "MR WONG LIANG TZER",
+     "qty": 75000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3723976"
+    },
+    {
+     "date": "2026-10-29",
+     "director": "MISS CHOE SOOK LING",
+     "qty": 757600,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3720303"
+    },
+    {
+     "date": "2026-10-28",
+     "director": "MR WONG LIANG TZER",
+     "qty": 148500,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3719641"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "MISS CHOE SOOK LING",
+     "qty": 400000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3718712"
+    }
+   ],
+   "directors": 2,
+   "big_buy": false,
+   "value_unknown": 4,
+   "total_rm": 0,
+   "last_buy": "2026-11-12"
+  },
+  {
+   "company": "GLOMAC BERHAD",
+   "code": "5020",
+   "buys": [
+    {
+     "date": "2026-11-11",
+     "director": "DATUK SERI FATEH ISKANDAR BIN TAN SRI DATO' MOHAMED MANSOR",
+     "qty": 5000,
+     "rm": 1550.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3723693"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "ENCIK FATEH IDZHAM BIN DATUK SERI FATEH ISKANDAR",
+     "qty": 5000,
+     "rm": 1550.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3723691"
+    },
+    {
+     "date": "2026-11-11",
+     "director": "TAN SRI DATO' MOHAMED MANSOR BIN FATEH DIN",
+     "qty": 5000,
+     "rm": 1550.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3723688"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "TAN SRI DATO' MOHAMED MANSOR BIN FATEH DIN",
+     "qty": 17500,
+     "rm": 5337.5,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3722185"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "ENCIK FATEH IDZHAM BIN DATUK SERI FATEH ISKANDAR",
+     "qty": 17500,
+     "rm": 5337.5,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3722186"
+    },
+    {
+     "date": "2026-11-04",
+     "director": "DATUK SERI FATEH ISKANDAR BIN TAN SRI DATO' MOHAMED MANSOR",
+     "qty": 17500,
+     "rm": 5337.5,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3722184"
+    },
+    {
+     "date": "2026-10-28",
+     "director": "DATUK SERI FATEH ISKANDAR BIN TAN SRI DATO' MOHAMED MANSOR",
+     "qty": 5000,
+     "rm": 1525.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3719769"
+    },
+    {
+     "date": "2026-10-28",
+     "director": "TAN SRI DATO' MOHAMED MANSOR BIN FATEH DIN",
+     "qty": 5000,
+     "rm": 1525.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3719767"
+    },
+    {
+     "date": "2026-10-28",
+     "director": "ENCIK FATEH IDZHAM BIN DATUK SERI FATEH ISKANDAR",
+     "qty": 5000,
+     "rm": 1525.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3719764"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "TAN SRI DATO' MOHAMED MANSOR BIN FATEH DIN",
+     "qty": 4000,
+     "rm": 1240.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3718723"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "ENCIK FATEH IDZHAM BIN DATUK SERI FATEH ISKANDAR",
+     "qty": 4000,
+     "rm": 1240.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3718719"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "DATO FATEH ISKANDAR BIN TAN SRI DATO' MOHAMED MANSOR",
+     "qty": 4000,
+     "rm": 1240.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3718717"
+    }
+   ],
+   "directors": 4,
+   "big_buy": false,
+   "value_unknown": 0,
+   "total_rm": 28958,
+   "last_buy": "2026-11-11"
+  },
+  {
+   "company": "VSTECS BERHAD",
+   "code": "5162",
+   "buys": [
+    {
+     "date": "2026-11-06",
+     "director": "MR FOO LEK CHOONG",
+     "qty": 150000,
+     "rm": 206400.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3722986"
+    },
+    {
+     "date": "2026-10-23",
+     "director": "MR FOO LEK CHOONG",
+     "qty": 100000,
+     "rm": 156000.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3718131"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "MR FOO LEK CHOONG",
+     "qty": 150000,
+     "rm": 216000.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3717821"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 578400,
+   "last_buy": "2026-11-06"
+  },
+  {
+   "company": "JAG BERHAD",
+   "code": "0024",
+   "buys": [
+    {
+     "date": "2026-11-06",
+     "director": "DATO' NG MEOW GIAK",
+     "qty": 500000,
+     "rm": 190000.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3722801"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 190000,
+   "last_buy": "2026-11-06"
+  },
+  {
+   "company": "SEMICO CAPITAL BERHAD",
+   "code": "0388",
+   "buys": [
+    {
+     "date": "2026-11-05",
+     "director": "MR TAI LEE CHUEN",
+     "qty": 1574000,
+     "rm": 999490.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3722460"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 999490,
+   "last_buy": "2026-11-05"
+  },
+  {
+   "company": "SMILE-LINK HEALTHCARE GLOBAL BERHAD",
+   "code": "03023",
+   "buys": [
+    {
+     "date": "2026-11-05",
+     "director": "DATO' DR WONG RUEN YUAN",
+     "qty": 300000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3722396"
+    },
+    {
+     "date": "2026-11-05",
+     "director": "DATIN WONG CHIEN YUE",
+     "qty": 300000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3722393"
+    }
+   ],
+   "directors": 2,
+   "big_buy": false,
+   "value_unknown": 2,
+   "total_rm": 0,
+   "last_buy": "2026-11-05"
+  },
+  {
+   "company": "OASIS HOME HOLDING BERHAD",
+   "code": "0357",
+   "buys": [
+    {
+     "date": "2026-11-04",
+     "director": "DATIN TANG JING WEN",
+     "qty": 305400,
+     "rm": 112207.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3722030"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 112207,
+   "last_buy": "2026-11-04"
+  },
+  {
+   "company": "ANCOM NYLEX BERHAD",
+   "code": "4758",
+   "buys": [
+    {
+     "date": "2026-11-04",
+     "director": "MR STEPHAN SCHNABEL",
+     "qty": 5000000,
+     "rm": 4023500.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3722003"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 4023500,
+   "last_buy": "2026-11-04"
+  },
+  {
+   "company": "MI TECHNOVATION BERHAD",
+   "code": "5286",
+   "buys": [
+    {
+     "date": "2026-11-03",
+     "director": "MR OH KUANG ENG",
+     "qty": 26750,
+     "rm": 175587.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3721675"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 175587,
+   "last_buy": "2026-11-03"
+  },
+  {
+   "company": "ECO-SHOP MARKETING BERHAD",
+   "code": "5337",
+   "buys": [
+    {
+     "date": "2026-11-02",
+     "director": "DATO' SRI LEE KAR WHATT",
+     "qty": 8244000,
+     "rm": 10665262.8,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3721319"
+    },
+    {
+     "date": "2026-11-02",
+     "director": "MR CHIN HEIN CHOONG",
+     "qty": 200000,
+     "rm": 257100.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3721318"
+    }
+   ],
+   "directors": 2,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 10922363,
+   "last_buy": "2026-11-02"
+  },
+  {
+   "company": "MGB BERHAD",
+   "code": "7595",
+   "buys": [
+    {
+     "date": "2026-11-02",
+     "director": "TAN SRI DATO' SRI IR. (DR.) LIM HOCK SAN, JP",
+     "qty": 60000,
+     "rm": 23295.6,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3721178"
+    },
+    {
+     "date": "2026-11-02",
+     "director": "DATUK WIRA LIM HOCK GUAN, JP",
+     "qty": 60000,
+     "rm": 23295.6,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3721176"
+    },
+    {
+     "date": "2026-10-26",
+     "director": "TAN SRI DATO' SRI IR. (DR.) LIM HOCK SAN, JP",
+     "qty": 73200,
+     "rm": 28050.24,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718358"
+    }
+   ],
+   "directors": 2,
+   "big_buy": false,
+   "value_unknown": 0,
+   "total_rm": 74641,
+   "last_buy": "2026-11-02"
+  },
+  {
+   "company": "MAXLAND BERHAD",
+   "code": "7123R1",
+   "buys": [
+    {
+     "date": "2026-10-29",
+     "director": "MR DENNIS LIM SHIE MIEN",
+     "qty": 100000,
+     "rm": 500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3720331"
+    },
+    {
+     "date": "2026-10-29",
+     "director": "MR CHANG KENG SING",
+     "qty": 100000,
+     "rm": 500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3720325"
+    }
+   ],
+   "directors": 2,
+   "big_buy": false,
+   "value_unknown": 0,
+   "total_rm": 1000,
+   "last_buy": "2026-10-29"
+  },
+  {
+   "company": "TANCO HOLDINGS BERHAD",
+   "code": "2429",
+   "buys": [
+    {
+     "date": "2026-10-28",
+     "director": "DATO' SRI ANDREW TAN JUN SUAN",
+     "qty": 1250000,
+     "rm": 187500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3719763"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 187500,
+   "last_buy": "2026-10-28"
+  },
+  {
+   "company": "AQUAWALK GROUP BERHAD",
+   "code": "0380",
+   "buys": [
+    {
+     "date": "2026-10-28",
+     "director": "FOONG CHUEN HOE",
+     "qty": 500000,
+     "rm": 0.0,
+     "rm_basis": "unknown",
+     "type": "Acquired",
+     "id": "3719751"
+    },
+    {
+     "date": "2026-10-23",
+     "director": "DATO' FOONG CHOONG HENG",
+     "qty": 910800,
+     "rm": 113850.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718117"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "FOONG CHUEN HOE",
+     "qty": 500000,
+     "rm": 62500.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717772"
+    }
+   ],
+   "directors": 2,
+   "big_buy": true,
+   "value_unknown": 1,
+   "total_rm": 176350,
+   "last_buy": "2026-10-28"
+  },
+  {
+   "company": "MATRIX CONCEPTS HOLDINGS BERHAD",
+   "code": "5236",
+   "buys": [
+    {
+     "date": "2026-10-28",
+     "director": "DATO' SERI LEE TIAN HOCK",
+     "qty": 122000,
+     "rm": 123220.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3719518"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 123220,
+   "last_buy": "2026-10-28"
+  },
+  {
+   "company": "SENG FONG HOLDINGS BERHAD",
+   "code": "5308",
+   "buys": [
+    {
+     "date": "2026-10-23",
+     "director": "MR ER HOCK LAI",
+     "qty": 418700,
+     "rm": 279769.06,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3718167"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 279769,
+   "last_buy": "2026-10-23"
+  },
+  {
+   "company": "SIGNATURE INTERNATIONAL BERHAD",
+   "code": "7246",
+   "buys": [
+    {
+     "date": "2026-10-23",
+     "director": "MISS SHELLY CHIAU YEE WERN",
+     "qty": 78397,
+     "rm": 100348.16,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717968"
+    },
+    {
+     "date": "2026-10-22",
+     "director": "DATUK WIRA CHIAU HAW CHOON",
+     "qty": 243000,
+     "rm": 318330.0,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717749"
+    }
+   ],
+   "directors": 2,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 418678,
+   "last_buy": "2026-10-23"
+  },
+  {
+   "company": "WASCO GREENERGY BERHAD",
+   "code": "5343",
+   "buys": [
+    {
+     "date": "2026-10-22",
+     "director": "MR WONG YIN KEE",
+     "qty": 300000,
+     "rm": 102000.0,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3717698"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 102000,
+   "last_buy": "2026-10-22"
+  },
+  {
+   "company": "AIZO GROUP BERHAD",
+   "code": "7219",
+   "buys": [
+    {
+     "date": "2026-10-22",
+     "director": "MR LO LING",
+     "qty": 4408700,
+     "rm": 154304.5,
+     "rm_basis": "per-share",
+     "type": "Acquired",
+     "id": "3717606"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 154304,
+   "last_buy": "2026-10-22"
+  },
+  {
+   "company": "SALIRAN GROUP BERHAD",
+   "code": "0346",
+   "buys": [
+    {
+     "date": "2026-10-22",
+     "director": "DATUK LIAW CHOON WEI",
+     "qty": 563400,
+     "rm": 125846.66,
+     "rm_basis": "total",
+     "type": "Acquired",
+     "id": "3717515"
+    }
+   ],
+   "directors": 1,
+   "big_buy": true,
+   "value_unknown": 0,
+   "total_rm": 125847,
+   "last_buy": "2026-10-22"
+  }
+ ]
+}
