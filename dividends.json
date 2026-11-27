@@ -1,0 +1,26 @@
+{
+ "as_of": "2026-11-27",
+ "codes": {
+  "5032": {
+   "announce": "2026-11-27",
+   "check": false,
+   "ex": "2026-12-11",
+   "hist": [],
+   "pay": "2026-12-22",
+   "record": "2026-12-14",
+   "sen": 4.0,
+   "source": "bursa"
+  }
+ },
+ "kind": "dividends",
+ "n": 1,
+ "not_available": [
+  "7854"
+ ],
+ "run": {
+  "announcements": 1
+ },
+ "universe": 886,
+ "updated_utc": "2026-11-27T13:49:17Z",
+ "v": 1
+}
